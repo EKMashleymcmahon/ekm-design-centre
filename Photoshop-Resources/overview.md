@@ -1,4 +1,4 @@
-(../readme.md "Home")
+[Home](../README.md)
 
 # Photoshop Tutorials &amp; Resources
-(# "Photoshop Resources")
+[Photoshop Resources](#)
